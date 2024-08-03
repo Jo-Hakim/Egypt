@@ -7,7 +7,7 @@ body {
 
 
 .body{
-    background-image: url(imgs/back.png);
+    background-image: url(back.png);
 }
 .video-container {
     position: fixed;
@@ -99,5 +99,5 @@ main .img-container:hover {
     transition: .4s;
 }
 .home{
-    background-image: url(imgs/back.png);
+    background-image: url(back.png);
 }
