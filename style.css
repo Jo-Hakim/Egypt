@@ -98,4 +98,6 @@ main .img-container:hover {
     transform: scale(1.5);
     transition: .4s;
 }
-
+.home{
+    background-image: url(imgs/back.png);
+}
